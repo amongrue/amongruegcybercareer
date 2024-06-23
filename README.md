@@ -28,14 +28,10 @@
 
 <h2>Amos Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-https://x.com/amos_mongrue
- https://linkedin.com/in/amos-g-mongrue-bsc-msc-mscsia
-
+[<img align="left" alt="amosgmongrue | YouTube" width="22px" src="https://cdn.     />][youtube]
+[<img align="left" alt="amosgmongrue | Twitter" width="22px" src="https://cdn.https://x.com/amos_mongrue" />][twitter]
+[<img align="left" alt="amosgmongrue | LinkedIn" width="22px" src="https://cdn.linkedin.com/in/amos-g-mongrue-bsc-msc-mscsia" />][linkedin]
+[<img align="left" alt="amosgmongrue | Instagram" width="22px" src="https://cdn.  " />][instagram]
 
 
 Here are some ideas to get you started:
