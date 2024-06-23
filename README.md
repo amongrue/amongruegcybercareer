@@ -26,12 +26,17 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2>Amos Connect with me:</h2>
+<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="amosgmongrue | YouTube" width="22px" src="https://cdn.     />][youtube]
-[<img align="left" alt="amosgmongrue | Twitter" width="22px" src="https://cdn.https://x.com/amos_mongrue" />][twitter]
-[<img align="left" alt="amosgmongrue | LinkedIn" width="22px" src="https://cdn.linkedin.com/in/amos-g-mongrue-bsc-msc-mscsia" />][linkedin]
-[<img align="left" alt="amosgmongrue | Instagram" width="22px" src="https://cdn.  " />][instagram]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 
 Here are some ideas to get you started:
