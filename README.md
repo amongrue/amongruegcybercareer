@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amos G. Mongrue! Cybersecurity Professional with a strong background in Security Systems, Networking, and Physical Security Systems.
+<h1>Hi, I'm Amos G. Mongrue! Cybersecurity Professional-Security Systems, Networking, and Physical Security Systems.
 
 <h2>Cybersecurity Development Projects:</h2>
 
